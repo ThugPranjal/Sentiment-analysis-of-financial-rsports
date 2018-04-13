@@ -1,0 +1,9 @@
+1. The Final.cik_list.xlsx is an excel file, containing the links to all the text documents. 
+
+2 This excel file also contained the enteries of finally calculated parameters for our texts.
+
+3. The parameters include  subjectivity, polarity, positivity, negativity, average sentence length, word count etc
+
+4. Also, there are three articles namely, Management and discussion analysis (MDA), Quality and control management (qqdmr), and risk factor(rf). These articles have been extracted from out python code and then respective parameters have been calculated for these articles and values filled up iin the excel sheet. 
+
+5. The parameters for the three sections have been painted in different colors in the excel sheets.
